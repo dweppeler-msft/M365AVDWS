@@ -54,31 +54,7 @@
           "FName": "Bob",
           "LName": "Jones",
           "SAM": "bjones"
-        },
-        {
-          "FName": "Bill",
-          "LName": "Smith",
-          "SAM": "bsmith"
-        },
-        {
-          "FName": "Mary",
-          "LName": "Phillips",
-          "SAM": "mphillips"
-        },
-        {
-          "FName": "Sue",
-          "LName": "Jackson",
-          "SAM": "sjackson"
-        },
-        {
-          "FName": "Jack",
-          "LName": "Petersen",
-          "SAM": "jpetersen"
-        },
-        {
-          "FName": "Julia",
-          "LName": "Williams",
-          "SAM": "jwilliams"
+        }
         }
       ],
       "metadata": {
@@ -101,13 +77,8 @@
       "type": "string",
       "defaultValue": "Standard_D2s_v4",
       "allowedValues": [
-        "Standard_DS2_v2",
-        "Standard_D2_v3",
-        "Standard_D2_v4",
-        "Standard_D2s_v3",
-        "Standard_D2s_v4",
-        "Standard_D4_v4",
-        "Standard_D4s_v4"
+        "Standard_D4_v5",
+        "Standard_D4s_v5"
       ],
       "metadata": {
         "description": "Select a VM SKU (please ensure the SKU is available in your selected region)."
